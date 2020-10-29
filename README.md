@@ -1,2 +1,3 @@
 # persian-sentiment-analysis-using-fastText-word-embedding-and-pseudo-labeling
 In this project, an attempt has been made to reduce the need for preprocessing by using fastText word embeddings (skip-gram method) and thus avoiding the complications of Persian language preprocessing. Then, using the deep learning model convolution neural network, high accuracy in emotion analysis has been obtained. Rouphly 30% of data was unlabeled, which implementing pseudo labeling on that helped to increase the model performance.
+In this repository fastText training steps haven't been mentioned, and just its pretrained word embedding vectors have been used in deep convolutiona neural network.
